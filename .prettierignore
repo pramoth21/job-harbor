@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+coverage
+drizzle
+.venv
+.pytest_cache
+__pycache__
